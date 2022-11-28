@@ -1,0 +1,8 @@
+.marca {
+    text-decoration: none;
+    color: #e830ce;
+}
+
+.marca:hover {
+    color: rgba(255, 255, 255, 0.524);
+}
