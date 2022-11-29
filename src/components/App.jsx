@@ -1,6 +1,5 @@
 import './app.css'
 import {BrowserRouter, Routes, Route} from 'react-router-dom'
-
 //Context
 import { CartContextProvider } from '../context/CartContext';
 //Componentes
